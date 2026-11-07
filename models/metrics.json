@@ -1,0 +1,18 @@
+{
+    "model": "CNN",
+    "dataset": "CIFAR-10",
+    "test_accuracy": 0.748199999332428,
+    "test_loss": 0.9003990292549133,
+    "classes": [
+        "Avion",
+        "Automovil",
+        "Ave",
+        "Gato",
+        "Ciervo",
+        "Perro",
+        "Rana",
+        "Caballo",
+        "Barco",
+        "Camion"
+    ]
+}
